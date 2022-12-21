@@ -73,8 +73,3 @@ app.listen(process.env.PORT||3000,function(){
 })
 
 
-
-// API KEYS
-// 5ea792ce048da71f5d20fd71ba6fe0eb-us11
-// lis id
-// 4ab3184f42.
