@@ -1,2 +1,2 @@
 # NewsletterSignUp
-https://fierce-tundra-49912.herokuapp.com/
+https://amber-clownfish-wear.cyclic.app/
